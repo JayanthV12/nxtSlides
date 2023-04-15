@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #dbeafe;
+  height: 10vh;
+  background-size: cover;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.logo {
+  height: 40px;
+  width: 70px;
+}
+.name {
+  align-self: flex-start;
+  margin-left: 12px;
+  height: 40px;
+}
